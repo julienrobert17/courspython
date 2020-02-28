@@ -17,4 +17,5 @@ __name__="__main__"
 ecrire()    
 lire()
 
+#EXERCICE5
 print(type(pythonexercice1))
