@@ -1,0 +1,63 @@
+{
+   "list_farms" :
+    	[
+	   {
+		"farm": "Ferme puteaux",
+		"animals" : [
+		
+		{
+			"type" : "poule",
+			"sex" : "female",
+                	"birthdate" : "23 Aout 2018",
+                	"adult age" : "1",
+                	"retirement age" : "3"
+        	},
+
+        	{
+            		"type" : "vache",
+            		"sex" : "female",
+            		"birthdate" : "28 aout 2019",
+            		"adult age" : "2",
+            		"retirement age" : "6"
+        	},
+
+		{
+	    		"type" : "chien",
+	    		"sex" : "male",
+            		"birthdate" : "23 Aout 2020",
+            		"adult age" : "1",
+            		"retirement age" : "3"
+		}
+	   	]
+	},
+	{
+	    "farm": "Ferme epsi",
+            "animals" : [
+		
+		{
+			"type" : "elephant",
+			"sex" : "female",
+                	"birthdate" : "22 Aout 2020",
+                	"adult age" : "1",
+                	"retirement age" : "3"
+        	},
+        	
+		{
+            		"type" : "gorille",
+            		"sex" : "male",
+            		"birthdate" : "20 novembre 2019",
+            		"adult age" : "2",
+            		"retirement age" : "6"
+        	},
+		
+		{
+	    		"type" : "pangolin",
+	    		"sex" : "male",
+            		"birthdate" : "10 septembre 2020",
+            		"adult age" : "1",
+            		"retirement age" : "3"
+		}
+	     ]
+	}
+    ]	
+}
